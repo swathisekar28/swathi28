@@ -1,0 +1,5 @@
+c=input("enter any character:")
+ans=c.lower()
+print(ans)
+ans=c.upper()
+print(ans)
